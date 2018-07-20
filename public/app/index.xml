@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Staleyland.com</title>
+    <link>http://test.staleyland.com/app/</link>
+    <description>Recent content in Apps on Staleyland.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://test.staleyland.com/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KPDX Planes</title>
+      <link>http://test.staleyland.com/app/app1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://test.staleyland.com/app/app1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbor Lodge Weather</title>
+      <link>http://test.staleyland.com/app/app2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://test.staleyland.com/app/app2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

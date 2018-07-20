@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staleyland.com</title>
+    <link>http://test.staleyland.com/</link>
+    <description>Recent content on Staleyland.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 10:58:08 -0700</lastBuildDate>
+    
+	<atom:link href="http://test.staleyland.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KPDX Planes</title>
+      <link>http://test.staleyland.com/app/app1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://test.staleyland.com/app/app1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbor Lodge Weather</title>
+      <link>http://test.staleyland.com/app/app2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://test.staleyland.com/app/app2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fresh lookin&#39; site.</title>
+      <link>http://test.staleyland.com/post/chapter-1/</link>
+      <pubDate>Tue, 17 Jul 2018 10:58:08 -0700</pubDate>
+      
+      <guid>http://test.staleyland.com/post/chapter-1/</guid>
+      <description>I decided today to give the site a fresh new look since I had to migrate it off of AWS. Looks good doesn&amp;rsquo;t it?
+The free year of AWS was about to expire, and I was going to use S3 to host this site on the cheap. However, I ran into Google Cloud and found that they would give a free year. So OK, I&amp;rsquo;ll do that.</description>
+    </item>
+    
+  </channel>
+</rss>
