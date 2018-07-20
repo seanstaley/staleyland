@@ -1,4 +1,4 @@
-baseURL = "http://test.staleyland.com/"
+baseURL = "http://www.staleyland.com/"
 languageCode = "en-us"
 title = "Staleyland.com"
 theme = "gohugo-theme-ananke"
@@ -23,6 +23,5 @@ enableRobotsTXT = true
     highlight = true
     highlightStyle = "solarized-dark"
     background_color_class = "bg-black"
-    highlightLanguages = ["java", "python", "bash", "Dockerfile", "json"]
     featured_image = '/images/IMG_5964.jpeg'
     recent_posts_number = 2
